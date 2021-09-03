@@ -1,0 +1,20 @@
+{
+    "appName": "TeamsRepeater",
+    "projectId": "da76f98b-e17f-4ec9-a3d8-0b1cf32ea5de",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "capabilities": [
+            "Bot"
+        ],
+        "azureResources": [],
+        "activeResourcePlugins": [
+            "fx-resource-bot",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio"
+        ]
+    },
+    "programmingLanguage": "typescript"
+}
